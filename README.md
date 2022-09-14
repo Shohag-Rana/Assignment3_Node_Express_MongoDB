@@ -1,5 +1,3 @@
-# Assignment3_Node_Express_MongoDB
-W3 Engineers Limited. Intern - Software Engineer
 
 # Blog Project 
 
